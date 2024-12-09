@@ -1,0 +1,87 @@
+* {
+  font-family: "Lato", "open Sans", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+header {
+  background-color: #293f50;
+}
+header h1 {
+  margin-left: 140px;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  align-items: first baseline;
+}
+#joy {
+  color: white;
+}
+#red {
+  position: absolute;
+  top: 20px;
+  left: 82%;
+  font-size: 18px;
+  text-align: right;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 0;
+  color: rgb(7, 111, 80);
+}
+nav {
+  position: absolute;
+  left: 43%;
+  display: flex;
+  justify-content: space-between;
+  justify-content: flex-end;
+  align-items: flex-end;
+  text-align: end;
+  gap: 80px;
+  font-size: 15px;
+  color: white;
+  padding: 40px;
+}
+.love {
+  text-align: center;
+  align-items: center;
+  font-size: 21px;
+  color: white;
+}
+#happy {
+  font-size: 30px;
+  color: rgb(7, 111, 80);
+  margin-bottom: -20px;
+}
+button {
+  padding: 15px;
+  color: black;
+  background-color: white;
+  margin: 40px;
+  margin-top: -20px;
+}
+section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: gray;
+}
+
+footer {
+  display: flex;
+  align-items: end;
+  text-align: space around;
+  background-color: #293f50;
+  padding: 140px;
+  padding-top: 20px;
+  margin: 0;
+}
+.pink {
+  color: white;
+  margin-left: 85px;
+  white-space: nowrap;
+}
+
+#pen {
+  color: white;
+  white-space: nowrap;
+  position: absolute;
+  right: 170%;
+}
